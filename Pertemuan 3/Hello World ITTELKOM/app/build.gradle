@@ -7,7 +7,7 @@ android {
     compileSdk 30
 
     defaultConfig {
-        applicationId "com.fauziyah_19104033.helloittelkompurwokerto"
+        applicationId "com.sofiyudinpamungkas_19104001.helloittelkompurwokerto"
         minSdk 30
         targetSdk 30
         versionCode 1
